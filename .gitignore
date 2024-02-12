@@ -1,6 +1,18 @@
-export/
+Resources/
 .vscode/
-APIStuff.hx
-THE GAME.lnk
 FNAF9/Saved/Cooked/
 FNAF9/Saved/StagedBuilds/
+FNAF9/Intermediate/Build/
+FNAF9/Config/SteamVRBindings/
+FNAF9/Intermediate/AssetRegistryCache/
+FNAF9/Intermediate/Config/
+FNAF9/Intermediate/Staging/
+FNAF9/Saved/Autosaves/
+FNAF9/Saved/Logs/
+FNAF9/Saved/MaterialStats/
+FNAF9/Saved/MaterialStatsDebug/
+FNAF9/Saved/Crashes/
+FNAF9/Saved/Temp
+FNAF9/Saved/Config/CrashReportClient/
+FNAF9/Content/ShadingAssets/Textures/
+FNAF9/Intermediate/CachedAssetRegistry.bin
